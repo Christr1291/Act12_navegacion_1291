@@ -15,4 +15,4 @@ lenguaje Dart flutter, nivel principiante, navegacion entre 3 paginas utilizando
 ## pantalla en android
 ![alt text](image-9.png)
 ![alt text](image-1.png)
-![alt text](image-7.png)
+![alt text](image-8.png)
